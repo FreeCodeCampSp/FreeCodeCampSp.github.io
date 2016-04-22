@@ -1,0 +1,18 @@
+.navbar a{
+    color:inherit;
+}
+#wrapper{
+    position: relative;
+}
+#topMenu{
+    color:#FFF;
+    font-size: 2rem;
+    padding:0.5rem 0;
+}
+#topMenu .socialButtons{
+    right: 0px;
+    display: inline-block;
+    margin-right: 1rem;
+    float:right;
+    clear: both;
+}
