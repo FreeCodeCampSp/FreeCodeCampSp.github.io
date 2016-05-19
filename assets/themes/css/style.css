@@ -25,17 +25,16 @@ h1, h2, h3, h4 {
     border-radius: 0;
     border: none;
 }
-.menu .navbar-brand{
+.menu .navbar-brand,.menu .navbar-brand:hover{
     color: #fff;
 }
 .menu .nav a{
     color: #fff!important;
-    transition: 0.5s ease-in!important;
     font-weight: bolder;
     font-size: 18px;
 }
 .menu .nav a:hover{
-    color: #000!important; 
+    color: #f0ad4e!important
 }
 .menu .nab a:active{
     background: #EFEFEF!important;
