@@ -18,5 +18,6 @@ Segue alguns links para você começar com o pé direito.
 <a href="https://www.facebook.com/groups/free.code.camp.sao.paulo/">
 Grupo do Facebook
 </a>
+&
 <a href="https://github.com/FreeCodeCampSp"> Curso do Free Code Camp</a>
 
