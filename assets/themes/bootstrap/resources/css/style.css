@@ -1,0 +1,53 @@
+/* Base */
+h1,h2,h3,h4,h5,h6{
+    color: #006400;
+    font-weight: bolder;
+}
+a{
+    color: #006400;
+    font-weight: bolder;
+    font-size: 16px;
+    margin: 0 2px;}
+a:hover{
+    color: #f0ad4e!important;
+}
+/* Menu */
+.menu{
+    background: #006400;
+    border-radius: 0;
+    border: none;
+}
+.menu .navbar-brand,.menu .navbar-brand:hover{
+    color: #fff;
+}
+.menu .nav > li > a{
+    color: #fff;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.menu .nav a:hover{
+    color: #f0ad4e!important
+}
+.menu .nav >.active > .active{
+    background: #EFEFEF!important;
+    color: #006400!important;
+}
+
+/* Footer */
+.footer {
+  background-color: #ffac33;
+}
+.footer a{
+    color: #006400!important;
+}
+.footer a:hover{
+    color: #fff!important;
+}    
+/* Videos */
+.videos{
+    max-width: 400px;
+    max-height: 400px;
+    height: auto;
+    width: 100%;
+    margin: 0  auto;
+}
