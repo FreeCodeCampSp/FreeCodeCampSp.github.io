@@ -28,15 +28,15 @@ h1, h2, h3, h4 {
 .menu .navbar-brand,.menu .navbar-brand:hover{
     color: #fff;
 }
-.navbar-default .navbar-nav>li>a{
+.menu .nav > li > a{
     color: #fff;
     font-weight: bolder;
     font-size: 18px;
 }
-.navbar-default .navbar-nav>li>a:hover{
+.menu .nav a:hover{
     color: #f0ad4e!important
 }
-.navbar-default .navbar-nav>li>.active{
+.menu .nav >.active > .active{
     background: #EFEFEF!important;
     color: #006400!important;
 }
