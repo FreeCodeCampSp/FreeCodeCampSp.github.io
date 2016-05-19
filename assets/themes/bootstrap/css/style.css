@@ -15,29 +15,29 @@
 
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
-    color: #3C763D;
+    color: #3C763D!important;
     font-weight: bolder;
 }
 
 /* Menu */
 .navbar-default{
-    background-color: #3c763d;
-    border: none;
-    border-radius: 0;
+    background-color: #3c763d!important;
+    border: none!important;
+    border-radius: 0!mportant;
 }
 .navbar-default .navbar-brand,.navbar-default .navbar-brand:hover{
-    color: #fff;
+    color: #fff!important;
 }
 .navbar-default .navbar-nav>li>a{
-    color: #fff;
-    font-size: 18px;
-    font-weight: bolder;
+    color: #fff!important;
+    font-size: 18px!important;
+    font-weight: bolder!important;
 }
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:active,
 .navbar-default .navbar-nav>li>a:visited{
-    color: #3C763D;
-    background-color: #EFEFEF;
+    color: #3C763D!important;
+    background-color: #EFEFEF!important;
 }
 
 /* Footer */
