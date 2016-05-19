@@ -36,7 +36,11 @@ h1, h2, h3, h4 {
 .menu .nav a:hover{
     color: #f0ad4e!important
 }
+<<<<<<< HEAD
 .menu .nav >.active > .active{
+=======
+.menu .nab a:active{
+>>>>>>> parent of c906879... Atualização dos estilos
     background: #EFEFEF!important;
     color: #006400!important;
 }
