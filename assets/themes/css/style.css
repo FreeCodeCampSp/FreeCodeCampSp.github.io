@@ -28,7 +28,7 @@ h1, h2, h3, h4 {
 .menu .navbar-brand,.menu .navbar-brand:hover{
     color: #fff;
 }
-.menu .nav > a{
+.menu .nav > li > a{
     color: #fff;
     font-weight: bolder;
     font-size: 18px;
