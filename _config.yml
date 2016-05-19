@@ -11,11 +11,11 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap-3
+title : Free Code Camp - SP
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
+  name : Free Code Camp - SP
+  email : freecodecampsp@hotmail.com/gmail
   github : username
   twitter : username
   feedburner : feedname
