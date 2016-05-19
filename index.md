@@ -15,7 +15,6 @@ O Free Code Camp SP é um grupo do Facebook criado e mantido pelas pessoas que e
 ### Achou FODA o curso ou a comunidade? Então Junte-se a nós e vamos mudar o mundo com o Javascript.
 
 Segue alguns links para você começar com o pé direito.
-
 <a href="https://www.facebook.com/groups/free.code.camp.sao.paulo/">
 Grupo do Facebook
 </a>
