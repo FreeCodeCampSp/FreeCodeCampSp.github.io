@@ -4,9 +4,6 @@ title: Hello World!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
-
-
-
 ## Update Author Attributes
 
 In `_config.yml` remember to specify your own data:
