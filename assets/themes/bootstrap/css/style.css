@@ -15,41 +15,32 @@
 
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
-    color: #3c763d;
+    color: #3C763D;
     font-weight: bolder;
 }
 
 /* Menu */
-.menu{
-    background: #006400;
-    border-radius: 0;
+.navbar-default{
+    background-color: #3c763d;
     border: none;
+    border-radius: 0;
 }
-.menu .navbar-brand,.menu .navbar-brand:hover{
+.navbar-default .navbar-brand,.navbar-default .navbar-brand:hover{
     color: #fff;
 }
-.menu .nav > li > a{
+.navbar-default .navbar-nav>li>a{
     color: #fff;
-    font-weight: bolder;
     font-size: 18px;
+    font-weight: bolder;
 }
-.menu .nav a:hover{
-    color: #f0ad4e!important
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:active,
+.navbar-default .navbar-nav>li>a:visited{
+    color: #3C763D;
+    background-color: #EFEFEF;
 }
-.menu .nav >.active > .active{
-    background: #EFEFEF!important;
-    color: #006400!important;
-}
+
 /* Footer */
-.footer {
-  background-color: #ffac33;
-}
-.footer a{
-    color: #006400!important;
-}
-.footer a:hover{
-    color: #fff!important;
-}
 
 /* posts index */
 .post > h3.title {
