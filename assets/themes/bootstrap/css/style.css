@@ -1,13 +1,55 @@
 /* Custom container */
-.container-narrow {
+
+/* Replaced with normal container and standard footer */
+/*.container-narrow {
   margin: 0 auto;
   max-width: 700px; }
 
 .container-narrow > hr {
   margin: 30px 0; }
+*/
 
-.navbar .nav {
-  float: right; }
+/* Replaced with standard BS3 Navbar */
+/*.navbar .nav {
+  float: right; }*/
+
+/* Jekyll Bootstrap Colors */
+h1, h2, h3, h4 {
+    color: #3c763d;
+    font-weight: bolder;
+}
+
+/* Menu */
+.menu{
+    background: #006400;
+    border-radius: 0;
+    border: none;
+}
+.menu .navbar-brand,.menu .navbar-brand:hover{
+    color: #fff;
+}
+.menu .nav > li > a{
+    color: #fff;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.menu .nav a:hover{
+    color: #f0ad4e!important
+}
+.menu .nav >.active > .active{
+    background: #EFEFEF!important;
+    color: #006400!important;
+}
+/* Footer */
+.footer {
+  background-color: #ffac33;
+}
+.footer a{
+    color: #006400!important;
+}
+.footer a:hover{
+    color: #fff!important;
+}
 
 /* posts index */
 .post > h3.title {
