@@ -26,17 +26,17 @@ h1, h2, h3, h4 {
     border: none;
 }
 .menu .navbar-brand,.menu .navbar-brand:hover{
-    color: #fff!important;
+    color: #fff;
 }
-.menu .nav a{
-    color: #fff!important;
+.menu .nav > a{
+    color: #fff;
     font-weight: bolder;
     font-size: 18px;
 }
 .menu .nav a:hover{
     color: #f0ad4e!important
 }
-.menu .nav .active{
+.menu .nav >.active > .active{
     background: #EFEFEF!important;
     color: #006400!important;
 }
