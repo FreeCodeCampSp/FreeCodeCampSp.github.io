@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Free Code Camp - SP
 tagline: Aprenda a programar e transforme o mundo.
 ---
