@@ -10,7 +10,42 @@
 
     <link href="{{ ASSET_PATH }}/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/resources/css/style.css" rel="stylesheet">
-  
+    
+  <style>
+     
+/* Menu */
+.menu{
+    background: #006400;
+    border-radius: 0;
+    border: none;
+}
+.menu .navbar-brand,.menu .navbar-brand:hover{
+    color: #fff;
+}
+.menu .nav > li > a{
+    color: #fff;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.menu .nav a:hover{
+    color: #f0ad4e!important
+}
+.menu .nav >.active > .active{
+    background: #EFEFEF!important;
+    color: #006400!important;
+}
+/* Footer */
+.footer {
+  background-color: #ffac33;
+}
+.footer a{
+    color: #006400!important;
+}
+.footer a:hover{
+    color: #fff!important;
+}     
+      
+ </style>
   
     <!--[if lt IE 9]>
       <script src="{{ ASSET_PATH }}/resources/respond/Respond.min.js"></script>
