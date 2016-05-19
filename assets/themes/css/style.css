@@ -29,18 +29,22 @@ h1, h2, h3, h4 {
     color: #fff;
 }
 .menu .nav a{
-    color: #fff;
-    transition: 2s ease-in;
+    color: #fff!important;
+    transition: 2s ease-in!important;
 }
 .menu .nav a:hover{
-    color: #ffac33;
+    color: #ffac33!important;
 }
 /* Footer */
 .footer {
   background-color: #ffac33;
 }
-.footer a{color: #006400;}
-.footer a:hover{ color: #fff;}
+.footer a{
+    color: #006400!important;
+}
+.footer a:hover{
+    color: #fff!important;
+}
 
 /* posts index */
 .post > h3.title {
