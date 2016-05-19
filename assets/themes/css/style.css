@@ -26,7 +26,7 @@ h1, h2, h3, h4 {
     border: none;
 }
 .menu .navbar-brand,.menu .navbar-brand:hover{
-    color: #fff;
+    color: #fff!important;
 }
 .menu .nav a{
     color: #fff!important;
@@ -38,7 +38,7 @@ h1, h2, h3, h4 {
 }
 .menu .nab a:active{
     background: #EFEFEF!important;
-    color: #000!important;
+    color: #006400!important;
 }
 /* Footer */
 .footer {
